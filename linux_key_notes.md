@@ -37,3 +37,7 @@ Otherwise, an alias is defined for each NAME whose VALUE is given. A trailing sp
  h—Display help screen.
 
  q—Quit displaying man page.
+ 
+ 
+ 
+In addition to man pages, you might find info documentation helpful. Not all commands and files have info documentation, but for those that do, using it can be easier than using man pages. To use an info document, execute the info command followed by the command to display; for example, info ls.
